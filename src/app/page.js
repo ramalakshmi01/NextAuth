@@ -12,7 +12,8 @@ export default function Home() {
       signIn();
     },
   });
-  console.log(session );
+  //console.log(session );
+
   return (
     
          
